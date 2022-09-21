@@ -6,4 +6,4 @@ console.log(FirstArray.push('12'));
 console.log(FirstArray.pop());
 FirstArray.splice(4,0,20,22);
 
-console.log(FirstArray);
+console.log(FirstArray)
