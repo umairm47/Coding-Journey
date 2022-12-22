@@ -1,2 +1,2 @@
 # Coding-Journey
-My coding journeyw
+My coding journey
